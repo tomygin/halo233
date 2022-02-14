@@ -7,8 +7,9 @@
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=halo233" />
 </div>
  -->
-### 🥳 最近活跃次数
+<!-- ### 🥳 最近活跃次数
 <div align="center">
     <img src="https://activity-graph.herokuapp.com/graph?username=halo233&theme=xcode" />
 </div>
 
+ -->
