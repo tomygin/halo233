@@ -2,8 +2,8 @@
 
 ![](https://count.getloli.com/get/@halo233.github.readme)
 
-### <img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="30" height="30"> 计划安排
-<br>
+<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="30" height="30">###  计划安排
+
 - [ ] 留言墙
 <br>
 
