@@ -3,8 +3,7 @@
 ![](https://count.getloli.com/get/@halo233.github.readme)
 
 <h3><img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="45" height="45"> 计划安排</h3>
-
-    - [ ] 留言墙
+       留言墙
 <br>
 
 ### 😎 GitHub打卡
