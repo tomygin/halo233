@@ -15,10 +15,8 @@
     <img src="https://activity-graph.herokuapp.com/graph?username=halo233&theme=xcode" />
 </div>
 
-### 😁 社交统计
+### 😁 B站统计
 <div align="center">
-    <img src="https://stats.justsong.cn/api/bilibili/?id=666">
+    <img src="https://stats.justsong.cn/api/bilibili/?id=1694214935">
 </div>
-<div align="center">
-    <img src="https://stats.justsong.cn/api/github?username=halo233">
-</div>
+
